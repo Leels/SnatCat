@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+`$ npm install prop-types@15.5.10 --save`
+
+`npm install react-router-dom@4.2.2 --save`
+
 ## Available Scripts
 
 In the project directory, you can run:
